@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @patsuli
-- 👀 I’m interested of cybersecurity and scripting
-- 🌱 I’m currently studying barchelors degree. Cybersecurity engineer
+
